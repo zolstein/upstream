@@ -4,6 +4,12 @@ Upstream allows users of the fish shell to easily type `'@{u}'`, shorthand in gi
 for the upstream branch, more quickly, without needing to remember the pesky
 quotes around curly braces. (Or, in fact, the pesky curly braces.)
 
+## Installation
+
+```fish
+$ omf install https://github.com/zolstein/upstream
+````
+
 ## Usage
 
 Type `@u` in the command line and this code will replace it with `'@{u}'`.
